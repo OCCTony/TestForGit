@@ -10,6 +10,7 @@ package test;
  * angel2
  * angelchange after coll
  * OCCAngel enter the group
+ * OCCSunny entered the group
  */
 public class Test {
     public static void main(String args[]){
